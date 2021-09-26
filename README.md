@@ -1,2 +1,2 @@
 # IBM_Data_Science_Coursera
-Tarining
+Tarining course2 (Tools for Data Science)
